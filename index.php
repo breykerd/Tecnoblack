@@ -124,7 +124,7 @@
       | Welcome
       |‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒
       !-->
-      <section class="section">
+      <section class="section bg-dark">
         <div class="container">
           <header class="section-header">
             <small>Welcome</small>
@@ -221,7 +221,7 @@
       | CTA
       |‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒
       !-->
-      <section class="section py-7" style="background-color: #8ea6e6">
+      <section class="section py-7" style="background-color: #000">
         <div class="container">
           <div class="row gap-y align-items-center">
             <div class="col-md-9">
@@ -241,7 +241,7 @@
       | Features
       |‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒
       !-->
-      <section id="section-features" class="section bg-gray">
+      <section id="section-features" class="section bg-dark">
         <div class="container">
           <header class="section-header">
             <small>Feature</small>
@@ -302,7 +302,7 @@
       | Pricing
       |‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒
       !-->
-      <section id="section-pricing" class="section">
+      <section id="section-pricing" class="section bg-dark">
         <div class="container">
           <header class="section-header">
             <small>Plans</small>
@@ -408,7 +408,7 @@
       | Signup
       |‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒
       !-->
-      <section class="section bg-gray text-center">
+      <section class="section bg-dark text-center">
         <div class="container">
 
           <header class="section-header">
