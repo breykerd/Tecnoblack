@@ -7,7 +7,7 @@
     <meta name="description" content="">
     <meta name="keywords" content="">
 
-    <title>Tecnoblack - Software Service</title>
+    <title>Saas - Software Service</title>
 
     <!-- Styles -->
     <link href="assets/css/style.css" rel="stylesheet">  
@@ -28,8 +28,8 @@
         <div class="navbar-left mr-4">
           <button class="navbar-toggler" type="button">&#9776;</button>
           <a class="navbar-brand" href="#">
-            <img class="logo-dark" src="assets/img/logo-dark.png" alt="logo">
-            <img class="logo-light" src="assets/img/logo-light.png" alt="logo">
+            <img class="logo-dark" src="assets/css/Tecnoblack-02.svg" style="color: #000" alt="logo">
+            <img class="logo-light" src="assets/css/Tecnoblack-02.svg" style="color: #000" alt="logo">
           </a>
         </div>
 
@@ -108,7 +108,7 @@
           </div>
 
           <div class="col-lg-5 ml-auto">
-            <img class="mt-5" src="assets/img/preview/laptop-1.png" alt="img">
+            <img class="mt-5" width="200" src="assets/css/Tecnoblack-02.svg" alt="img">
           </div>
 
         </div>
@@ -450,7 +450,7 @@
         <div class="row gap-y align-items-center">
 
           <div class="col-md-3 text-center text-md-left">
-            <a href="#"><img src="assets/img/logo-dark.png" alt="logo"></a>
+            <a href="#"><img src="assets/css/Tecnoblack-02.svg" width="80" alt="logo"></a>
           </div>
 
           <div class="col-md-6">
