@@ -1,3 +1,10 @@
+@font-face {
+  font-family: "headplane";
+  src: url("../fonts/headplane.woff2");
+   font-display: swap;
+
+}
+
 @import url("https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700|Dosis:200,400,500,600");
 :root {
     --blue: #50a1ff;
@@ -327,7 +334,7 @@ h6,
 .h5,
 .h6 {
     margin-bottom: .5rem;
-    font-family: Dosis, sans-serif;
+    font-family: headplane, sans-serif;
     font-weight: 400;
     line-height: 1.5;
     color: #323d47

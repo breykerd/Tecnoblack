@@ -7,35 +7,30 @@
     <meta name="description" content="">
     <meta name="keywords" content="">
 
-    <title>Saas - Software Service</title>
+    <title>Tecnoblack</title>
 
     <!-- Styles -->
     <link href="assets/css/style.css" rel="stylesheet">  
-      <link href="assets/css/page.css" rel="stylesheet">
+    <link href="assets/css/page.css" rel="stylesheet">
 
     <!-- Favicons -->
-    <link rel="apple-touch-icon" href="assets/img/apple-touch-icon.png">
-    <link rel="icon" href="assets/img/favicon.png">
-  </head>
+    <link rel="apple-touch-icon" href="assets/img/tecnoblack.svg">
+    <link rel="icon" href="assets/img/tecnoblack.svg">
+</head>
 
-  <body>
-
-
+<body>
     <!-- Navbar -->
-    <nav class="navbar navbar-expand-lg navbar-light navbar-stick-dark" data-navbar="sticky">
-      <div class="container">
-
-        <div class="navbar-left mr-4">
-          <button class="navbar-toggler" type="button">&#9776;</button>
+  <nav class="navbar navbar-expand-lg navbar-light navbar-stick-dark" data-navbar="sticky">
+    <div class="container">
+      <div class="navbar-left mr-4">
+        <button class="navbar-toggler" type="button">&#9776;</button>
           <a class="navbar-brand" href="#">
-            <img class="logo-dark" src="assets/css/Tecnoblack-02.svg" style="color: #000" alt="logo">
-            <img class="logo-light" src="assets/css/Tecnoblack-02.svg" style="color: #000" alt="logo">
+            <img class="logo-dark" src="assets/img/tecnoblack.svg"  alt="logo">
+            <img class="logo-light" src="assets/img/tecnoblack.svg"  alt="logo">
           </a>
-        </div>
-
-        <section class="navbar-mobile">
-          <span class="navbar-divider d-mobile-none"></span>
-
+      </div>
+      <section class="navbar-mobile">
+        <span class="navbar-divider d-mobile-none"></span>
           <ul class="nav nav-navbar">
 
             <li class="nav-item">
@@ -74,10 +69,10 @@
             <li class="nav-item">
               <a class="nav-link" href="#">Tienda <span class="arrow"></span></a>
               <nav class="nav">
-                <a class="nav-link" href="shop/list.html">Pc/Ryzen</a>
-                <a class="nav-link" href="shop/item.html">Pc/Intel</a>
-                <a class="nav-link" href="shop/cart.html">Workstations</a>
-                <a class="nav-link" href="shop/checkout.html"></a>
+                <a class="nav-link" href="pc/Ryzen">Pc/Ryzen</a>
+                <a class="nav-link" href="pc/Intel">Pc/Intel</a>
+                <a class="nav-link" href="pc/intel">Workstations</a>
+                <a class="nav-link" href="seguridad">Seguridad</a>
               </nav>
             </li>
 
@@ -94,8 +89,8 @@
 
     <!-- Header -->
     <header id="home" class="header text-white h-fullscreen text-center text-lg-left" style="background-color: #000">
-      <canvas id="" class="constellation" data-color="rgba(255,255,255,1)"></canvas>
-      <div class="container">
+      <canvas id="" class="constellation"  data-color="rgba(255,255,255,1)"></canvas>
+      <div class="container position-static">
         <div class="row align-items-center h-100">
 
           <div class="col-lg-6">
@@ -107,8 +102,8 @@
             </p>
           </div>
 
-          <div class="col-lg-5 ml-auto">
-            <img class="mt-5" width="200" src="assets/css/Tecnoblack-02.svg" alt="img">
+          <div class="col-lg-5 ml-auto position-static">
+            <img class="mt-5 " width="400" src="assets/img/tecnoblack.svg" alt="img">
           </div>
 
         </div>
@@ -450,7 +445,7 @@
         <div class="row gap-y align-items-center">
 
           <div class="col-md-3 text-center text-md-left">
-            <a href="#"><img src="assets/css/Tecnoblack-02.svg" width="80" alt="logo"></a>
+            <a href="#"><img src="assets/img/tecnoblack.svg" width="80" alt="logo"></a>
           </div>
 
           <div class="col-md-6">
@@ -463,7 +458,7 @@
           </div>
 
           <div class="col-md-3 text-center text-md-right">
-            <small>© 2019. All rights reserved.</small>
+            <small>© 2019. Todos los derechos reservados.</small>
           </div>
 
         </div>
