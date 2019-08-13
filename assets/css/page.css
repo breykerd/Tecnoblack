@@ -66,7 +66,7 @@ body {
     font-size: .9375rem;
     font-weight: 300;
     line-height: 1.9;
-    color: #757575;
+    color: #a2a2a2;
     text-align: left;
     background-color: #fff
 }
@@ -17843,7 +17843,7 @@ h6,
 .h4,
 .h5,
 .h6 {
-    color: #323d47;
+    color: #dedede;
     letter-spacing: 0.5px
 }
 h1 small,

@@ -142,7 +142,7 @@
 
             <div class="col-md-6 col-xl-4">
               <div class="media">
-                <div class="lead-6 line-height-1 text-dark mr-5"><i class="icon-mobile"></i></div>
+                <div class="lead-6 line-height-1 text-white mr-5"><i class="icon-mobile"></i></div>
                 <div class="media-body">
                   <h5>Responsive</h5>
                   <p>Your website works on any device: desktop, tablet or mobile.</p>
@@ -153,7 +153,7 @@
 
             <div class="col-md-6 col-xl-4">
               <div class="media">
-                <div class="lead-6 line-height-1 text-primary mr-5"><i class="icon-gears"></i></div>
+                <div class="lead-6 line-height-1 text-white mr-5"><i class="icon-gears"></i></div>
                 <div class="media-body">
                   <h5>Customizable</h5>
                   <p>You can easily read, edit, and write your own code, or change everything.</p>
@@ -164,7 +164,7 @@
 
             <div class="col-md-6 col-xl-4">
               <div class="media">
-                <div class="lead-6 line-height-1 text-info mr-5"><i class="icon-tools"></i></div>
+                <div class="lead-6 line-height-1 text-white mr-5"><i class="icon-tools"></i></div>
                 <div class="media-body">
                   <h5>UI Kit</h5>
                   <p>There is a bunch of useful and necessary elements for developing your website.</p>
@@ -175,7 +175,7 @@
 
             <div class="col-md-6 col-xl-4">
               <div class="media">
-                <div class="lead-6 line-height-1 text-warning mr-5"><i class="icon-layers"></i></div>
+                <div class="lead-6 line-height-1 text-white mr-5"><i class="icon-layers"></i></div>
                 <div class="media-body">
                   <h5>Lego Base</h5>
                   <p>You can find our code well organized, commented and readable.</p>
@@ -186,7 +186,7 @@
 
             <div class="col-md-6 col-xl-4">
               <div class="media">
-                <div class="lead-6 line-height-1 text-danger mr-5"><i class="icon-recycle"></i></div>
+                <div class="lead-6 line-height-1 text-white mr-5"><i class="icon-recycle"></i></div>
                 <div class="media-body">
                   <h5>Clean Code</h5>
                   <p>As you can see in the source code, we provided a clean code.</p>
@@ -197,7 +197,7 @@
 
             <div class="col-md-6 col-xl-4">
               <div class="media">
-                <div class="lead-6 line-height-1 text-success mr-5"><i class="icon-chat"></i></div>
+                <div class="lead-6 line-height-1 text-white mr-5"><i class="icon-chat"></i></div>
                 <div class="media-body">
                   <h5>Support</h5>
                   <p>When you purchase this template, you'll freely receive future updates.</p>
@@ -336,7 +336,7 @@
 
                 <br>
                 <p class="text-center py-3">
-                  <a class="btn btn-primary" href="#">Get started</a>
+                  <a class="btn btn-dark" href="#">Get started</a>
                 </p>
               </div>
             </div>
@@ -346,7 +346,7 @@
               <div class="pricing-1 popular">
                 <p class="plan-name">Personal</p>
                 <br>
-                <h2 class="price text-success">
+                <h2 class="price text-dark">
                   <span class="price-unit">$</span>
                   <span data-bind-radio="pricing" data-monthly="9" data-yearly="99">9</span>
                   <span class="plan-period" data-bind-radio="pricing" data-monthly="/mo" data-yearly="/yr">/mo</span>
@@ -361,7 +361,7 @@
 
                 <br>
                 <p class="text-center py-3">
-                  <a class="btn btn-success" href="#" data-bind-href="pricing" data-monthly="#monthly" data-yearly="#yearly">Get started</a>
+                  <a class="btn btn-dark" href="#" data-bind-href="pricing" data-monthly="#monthly" data-yearly="#yearly">Get started</a>
                 </p>
               </div>
             </div>
@@ -386,7 +386,7 @@
 
                 <br>
                 <p class="text-center py-3">
-                  <a class="btn btn-primary" href="#" data-bind-href="pricing" data-monthly="#monthly" data-yearly="#yearly">Get started</a>
+                  <a class="btn btn-dark" href="#" data-bind-href="pricing" data-monthly="#monthly" data-yearly="#yearly">Get started</a>
                 </p>
               </div>
             </div>
@@ -428,7 +428,7 @@
                 <input type="password" class="form-control form-control-lg" placeholder="Password">
               </div>
 
-              <button class="btn btn-block btn-xl btn-success">Sign up</button>
+              <button class="btn btn-block btn-xl btn-white">Sign up</button>
               <p class="small mt-3 opacity-70">or use your <a href="#">Facebook account</a></p>
             </form>
           </div>

@@ -50,7 +50,7 @@
 }, function(e, t, n) {
     var i, o, r;
     window.$ = window.jQuery = n(3), window.Popper = n(4), n(6), window.SmoothScroll = n(8), n(9), i = jQuery, o = window, r = {
-        name: "TheSaaS",
+        name: "Tecnoblack",
         version: "2.1.8",
         vendors: [],
         body: i("body"),
