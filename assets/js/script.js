@@ -149,13 +149,13 @@ $(function() {
     var storedParams = storeParams(queryParams)
     var urlAttachment = createURLAttachment(storedParams)
 
-	if ( urlAttachment === '' ) {
-		return;
-	}
+  if ( urlAttachment === '' ) {
+    return;
+  }
     history.pushState(null, '', location.href.split('?')[0])
     $('a[href*="/19778599"]').each(function () {
-		var href = $(this).attr('href')
-		$(this).attr('href', href + '&' + urlAttachment)
+    var href = $(this).attr('href')
+    $(this).attr('href', href + '&' + urlAttachment)
     })
   })
   function getQueryParams (qs) {

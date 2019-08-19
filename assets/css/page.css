@@ -25292,3 +25292,28 @@ a.text-lightest:focus {
 .text-white .close {
     color: rgba(255, 255, 255, 0.85)
 }
+
+
+.logo{
+max-width: 400px;
+}
+
+
+.bg-black{
+    
+}
+
+
+@media (max-width: 480px) {
+
+.logo{
+max-width: 400px;
+}
+
+}
+@media (max-width: 900px) {
+.logo{
+max-width: 500px;
+}
+
+}

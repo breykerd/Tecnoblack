@@ -38,28 +38,8 @@
             </li>
 
             <li class="nav-item">
-              <a class="nav-link" href="#">Servicios <span class="arrow"></span></a>
-              <ul class="nav">
-                <li class="nav-item">
-                  <a class="nav-link" href="#">Paginas Web</a>
-                </li>
-
-                <li class="nav-item">
-                  <a class="nav-link" href="#">Seo</a>
-                </li>
-
-                <li class="nav-item">
-                  <a class="nav-link" href="#">Softwares</a>
-                </li>
-
-                <li class="nav-item">
-                  <a class="nav-link" href="#">Asesoria Tecnologica</a>
-                </li>
-                <li class="nav-item">
-                  <a class="nav-link" href="#">Servicio Tecnico</a>
-                </li>
-
-              </ul>
+              <a class="nav-link" href="Servicios">Servicios </a>
+             
             </li>
 
             <li class="nav-item">
@@ -103,7 +83,7 @@
           </div>
 
           <div class="col-lg-5 ml-auto position-static">
-            <img class="mt-5 " width="400" src="assets/img/tecnoblack.svg" alt="img">
+            <img class="mt-5 logo" src="assets/img/tecnoblack.svg" alt="img">
           </div>
 
         </div>
@@ -122,7 +102,7 @@
       <section class="section bg-dark">
         <div class="container">
           <header class="section-header">
-            <small>Welcome</small>
+            <small>Bienvenido</small>
             <h2>Get a Better Understanding</h2>
             <hr>
             <p class="lead">Holisticly implement fully tested process improvements rather than dynamic internal.</p>
